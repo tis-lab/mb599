@@ -2,3 +2,4 @@ requests
 pandas
 jupyter
 pdfminer2
+SPARQLwrapper
