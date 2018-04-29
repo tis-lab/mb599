@@ -5,3 +5,5 @@ MB599 Biological Data Sciences
 [Mary Willis](https://github.com/marydwillis) - Oregon State University
 
 [Michelle Pombrol](https://github.com/mpombrol) - Oregon State University 
+
+[Ashish Vaswani](https://github.com/vaswania) - Oregon State University 
