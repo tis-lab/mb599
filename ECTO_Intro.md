@@ -13,3 +13,5 @@ ECTO can be viewed in Protege.
 - You can also install a graphical user interface like [Sourcetree](https://www.sourcetreeapp.com/) or [GitHub Desktop](https://desktop.github.com/). Detailed instructions for downloading the repository in Sourcetree are [here](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/SourceTreeInstructions.md).
 
 ECTO can be edited using [INCA forms](https://environmentontology.github.io/exposure-inca-form/?config=configurations%2Fenvironmental-exposure-ontology%2Fconfig.yaml&yaml=https:%2F%2Fraw.githubusercontent.com%2FEnvironmentOntology%2Fenvironmental-exposure-ontology%2Fmaster%2Fsrc%2Fpatterns%2Factivity.yaml).
+
+INCA forms utilize "dead simple ontology design patterns" (DOSDPs). More info about DOSDPs is available here: https://github.com/dosumis/dead_simple_owl_design_patterns
