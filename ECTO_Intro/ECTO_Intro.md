@@ -20,5 +20,5 @@ INCA forms utilize "dead simple ontology design patterns" (DOSDPs). More info ab
 The design patterns for ECTO are available here: https://github.com/EnvironmentOntology/environmental-exposure-ontology/tree/master/src/patterns
 
 Presentation about INCA form at csv,conf,v3:
-Slides: https://figshare.com/articles/A_match_made_in_heaven_domain_expert_meets_CSV_gives_birth_to_ontologies/4968119
-Recorded video: https://www.youtube.com/watch?v=C5BR_V9LGF0
+- Slides: https://figshare.com/articles/A_match_made_in_heaven_domain_expert_meets_CSV_gives_birth_to_ontologies/4968119
+- Recorded video: https://www.youtube.com/watch?v=C5BR_V9LGF0
