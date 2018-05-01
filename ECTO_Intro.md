@@ -4,7 +4,7 @@ Created by: Nicole Vasilevsky
 
 Updated: 2018-04-30
 
-## Background
+## Relevant information
 ECTO is available in this GitHub repo: [https://github.com/EnvironmentOntology/environmental-exposure-ontology](https://github.com/EnvironmentOntology/environmental-exposure-ontology) 
 
 ECTO can be viewed in Protege. 
