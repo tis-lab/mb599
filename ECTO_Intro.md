@@ -1,6 +1,7 @@
 ## Introduction to the Environmental Exposures Ontology (ECTO)
 
 Created by: Nicole Vasilevsky
+
 Updated: 2018-05-01
 
 ### Relevant information
