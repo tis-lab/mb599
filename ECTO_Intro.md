@@ -15,3 +15,5 @@ ECTO can be viewed in Protege.
 ECTO can be edited using [INCA forms](https://environmentontology.github.io/exposure-inca-form/?config=configurations%2Fenvironmental-exposure-ontology%2Fconfig.yaml&yaml=https:%2F%2Fraw.githubusercontent.com%2FEnvironmentOntology%2Fenvironmental-exposure-ontology%2Fmaster%2Fsrc%2Fpatterns%2Factivity.yaml).
 
 INCA forms utilize "dead simple ontology design patterns" (DOSDPs). More info about DOSDPs is available here: https://github.com/dosumis/dead_simple_owl_design_patterns
+
+The design patterns for ECTO are available here: https://github.com/EnvironmentOntology/environmental-exposure-ontology/tree/master/src/patterns
