@@ -9,7 +9,7 @@ ECTO is available in this GitHub repo: [https://github.com/EnvironmentOntology/e
 
 ECTO can be viewed in Protégé. 
 - To download protege, go to: To download Protégé, go to: http://protege.stanford.edu/
-- Instructions to clone a repository using the command line are available here.
+- Instructions to clone a repository using the command line are available [here](https://services.github.com/on-demand/github-cli/clone-repo-cli).
 - You can also install a graphical user interface like [Sourcetree](https://www.sourcetreeapp.com/) or [GitHub Desktop](https://desktop.github.com/). Detailed instructions for downloading the repository in Sourcetree are [here](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/SourceTreeInstructions.md).
 - A more detailed online Protege tutorial is available [here](http://ontology101tutorial.readthedocs.io/en/latest/)
 
